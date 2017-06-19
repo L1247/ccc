@@ -5,8 +5,8 @@ chapters:
 
 title               | link
 --------------------|---------
-10-Minutes=十分鐘系列 | <README.md>
-Coding=程式設計     | <coding.md>
+10-Minutes=十分鐘系列 | [README.md](README.md)
+Coding=程式設計     | [coding.md]
 Education=教育學習  | <education.md>
 Computer=資訊工程   | <computer.md>
 AI=人工智慧         | <ai.md>
