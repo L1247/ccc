@@ -1,5 +1,3 @@
-## 十分鐘系列
-
 | 十分鐘系列的《輕知識》 | pdf |  網路版  | 加長版 | 影片 | 討論 | 
 |----------------------|-----|---------|--------|------|-----|
 |  十分鐘讓程式人搞懂雲端平台與技術 | [pdf](../slide/10minCloudHost.pdf)  | [SlideShare](http://www.slideshare.net/ccckmit/ss-70782470)   | |  | [Facebook](https://www.facebook.com/ccckmit/posts/10154759868726893) | 
