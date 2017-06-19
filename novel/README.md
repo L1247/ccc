@@ -1,3 +1,5 @@
+<center>
+
 # 陳鍾誠小說集
 
 | 標題  |  說明  |  English | 人造語 |
@@ -16,3 +18,5 @@
 |  [非關歷史：愛吃荔枝的楊貴妃](litchi.md)  |  古典寓言類  |  | |
 |  [爺爺的回憶錄](grandpaIphone.md)  |  古典寓言類  |  | |
 |  [最強的武術](strongestKongfu.md)  |  武俠寓言類  |  | |
+
+</center>

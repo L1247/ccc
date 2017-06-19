@@ -1,3 +1,5 @@
+<center>
+
 # 陳鍾誠
 
 欄位          | 內容
@@ -11,3 +13,4 @@
 研究          | [機器翻譯](book/mt/README.md) , [人造語](book/artilang/README.md) , [Markdown 物件格式應用](book/mdo/README.md)
 
 
+</center>
